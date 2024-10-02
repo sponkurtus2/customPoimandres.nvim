@@ -1,5 +1,6 @@
 # What is this?
-This is the same poimandres, but when I installed it, i did noticed that in Golang, the name of the functions were blue, while in the picture of the theme, they were green, so I just changed that color.
+This is the same poimandres, but when I installed it, I did noticed that in Golang, the name of the functions were blue, while in the picture of the theme, they were green, so I just changed that color.
+Also I fixed the highlight color problem that makes the text unreadable.
 
 ## 📦 Installation
 
